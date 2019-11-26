@@ -5,11 +5,11 @@
 <link rel="manifest" href="/site.webmanifest" />
 </head>
 
-<strong><font size="6">Welcome to xs4us</font></strong>
+<strong><font size="6">xs4us | open space</font></strong>
 
 <img alt="xs4us" width="330" src="xs4us.svg" />
 
-<strong><font size="5">xs4us | open space</font></strong>
+<strong><font size="5">Welcome to xs4us</font></strong>
 
 <p><img alt="xs4us" width="330" src="xs4us-office.jpg" /></p>
 
