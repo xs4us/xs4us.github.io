@@ -9,7 +9,7 @@
 
 <strong><font size="5">Welcome to xs4us</font></strong>
 
-<img alt="xs4us" width="400" height="400" src="xs4us.svg" />
+<img alt="xs4us" width="380" height="380" src="xs4us.svg" />
 
 <strong><font size="5">xs4us | open space</font></strong>
 
@@ -17,6 +17,6 @@
 
 <strong><font size="5"><a href="tel:+31684423888">Phone</a> | <a href="https://wa.me/31684423888?text=xs4us" target="_blank">WhatsApp</a> | <a href="mailto:xs4us.github@gmail.com" target="_blank">Mail</a></font></strong>
 
-<p><img alt="xs4us" width="400" src="xs4us-office.jpg" /></p>
+<p><img alt="xs4us" width="380" src="xs4us-office.jpg" /></p>
 
 Copyright © 2019 xs4us
