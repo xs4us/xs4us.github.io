@@ -9,7 +9,7 @@
 
 <strong><font size="5">Welcome to xs4us</font></strong>
 
-<strong>Tab a link to contact xs4us</strong>
+<strong><font size="5">Tab a link to contact xs4us</font></strong>
 
 <strong><font size="5">Phone: <a href="tel:+31684423888">+316 844 23 888</a></font></strong>
 
