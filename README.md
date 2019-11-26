@@ -6,7 +6,7 @@
 </head>
 
 # xs4us
-<strong>Welcome to xs4us</strong>
+<strong><font size="5">Welcome to xs4us</font></strong>
 
 <strong>Tab a link to contact b7 directly</strong>
 
