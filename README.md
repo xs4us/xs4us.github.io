@@ -15,7 +15,7 @@
 
 <strong><font size="5"><a href="tel:+31684423888">Phone</a></font></strong>
 <strong><font size="5"><a href="https://wa.me/31684423888?text=xs4us" target="_blank">WhatsApp</a></font></strong>
-<strong><font size="5"><a href="mailto:xs4us.github@gmail.com" target="_blank">Mail/a></font></strong>
+<strong><font size="5"><a href="mailto:xs4us.github@gmail.com" target="_blank">Mail</a></font></strong>
 
 <strong><font size="5">xs4us |</font></strong><font size="5"> open space</font>
 
