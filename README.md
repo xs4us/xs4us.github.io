@@ -19,6 +19,6 @@
 
 <strong><font size="5">Mail <a href="mailto:xs4us.github@gmail.com" target="_blank">xs4us.github@gmail.com</a></font></strong>
 
-<strong><font size="5">xs4us |</font></strong><font size="5"> open source project</font>
+<strong><font size="5">xs4us |</font></strong><font size="5"> open space</font>
 
 Copyright © 2019 xs4us
