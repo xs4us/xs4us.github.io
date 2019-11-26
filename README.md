@@ -17,6 +17,6 @@
 
 <strong><font size="5"><a href="tel:+31684423888">Phone</a> | <a href="https://wa.me/31684423888?text=xs4us" target="_blank">WhatsApp</a> | <a href="mailto:xs4us.github@gmail.com" target="_blank">Mail</a></font></strong>
 
-<p><img alt="xs4us" src="xs4us office.svg" /></p>
+<p><img alt="xs4us" src="xs4us-office.svg" /></p>
 
 Copyright © 2019 xs4us
