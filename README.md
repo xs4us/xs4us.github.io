@@ -5,9 +5,7 @@
 <link rel="manifest" href="/site.webmanifest" />
 </head>
 
-<strong><font size="7">xs4us</font></strong>
-
-<strong><font size="5">Welcome to xs4us</font></strong>
+<strong><font size="7">Welcome to xs4us</font></strong>
 
 <img alt="xs4us" width="330" src="xs4us.svg" />
 
