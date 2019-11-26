@@ -11,6 +11,10 @@
 
 <strong><font size="5">Welcome to xs4us</font></strong>
 
+<strong><font size="5">We are an open space company</font></strong>
+
+<strong><font size="5">with focus on research</font></strong>
+
 <p><img alt="xs4us" width="330" src="xs4us-office.jpg" /></p>
 
 <strong><font size="5">Tab a link to contact xs4us</font></strong>
