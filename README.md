@@ -11,9 +11,9 @@
 
 <strong><font size="5">Welcome to xs4us</font></strong>
 
-<strong><font size="5">We are an open space team.</font></strong>
+<strong><font size="5">We are an open space team</font></strong>
 
-<strong><font size="5">Our focus is the research of:</font></strong>
+<strong><font size="5">Our focus is the research of</font></strong>
 
 <strong><font size="5">Access For Us | xs4us</font></strong>
 
