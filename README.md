@@ -9,7 +9,7 @@
 
 <strong><font size="5">Welcome to xs4us</font></strong>
 
-<img alt="xs4us" width="300" height="300" src="xs4us.svg" />
+<img alt="xs4us" src="xs4us.svg" />
 
 <strong><font size="5">xs4us | open space</font></strong>
 
