@@ -11,10 +11,10 @@
 
 <strong><font size="5">xs4us | open space</font></strong>
 
+<p><img alt="xs4us" width="330" src="xs4us-office.jpg" /></p>
+
 <strong><font size="5">Tab a link to contact xs4us</font></strong>
 
 <strong><font size="5"><a href="tel:+31684423888">Phone</a> | <a href="https://wa.me/31684423888?text=xs4us" target="_blank">WhatsApp</a> | <a href="mailto:xs4us.github@gmail.com" target="_blank">Mail</a></font></strong>
-
-<p><img alt="xs4us" width="330" src="xs4us-office.jpg" /></p>
 
 Copyright © 2019 xs4us
