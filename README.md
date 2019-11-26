@@ -13,9 +13,9 @@
 
 <strong><font size="5">We are an open space team</font></strong>
 
-<strong><font size="5">with focus on research</font></strong>
+<strong><font size="5">with focus in research</font></strong>
 
-<strong><font size="5">in Artificial intelligence</font></strong>
+<strong><font size="5">of access for us</font></strong>
 
 <p><img alt="xs4us" width="330" src="xs4us-office.jpg" /></p>
 
